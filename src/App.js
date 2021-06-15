@@ -110,7 +110,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <header>
-          Form Validation
+          Form Page
         </header>
         <main role='main'>
           <form action='#' id='js-form'>
