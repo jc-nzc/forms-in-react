@@ -20,8 +20,11 @@ body {
 
 header {
   font-size: 40px;
+  padding: 20px;
   margin-bottom: 30px;
   font-weight: bold;
+  box-shadow: 4px 5px 5px 1px rgba(0,0,0,0.75);
+  background-color: white;
 }
 
 form {
